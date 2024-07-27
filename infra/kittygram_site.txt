@@ -1,0 +1,5 @@
+IP: 158.160.92.121;
+name_taski: https://taski-dz.hopto.org;
+name_kittygram: https://kittygram-dz.hopto.org;
+login: yc-user;
+password: Oboroten1;
